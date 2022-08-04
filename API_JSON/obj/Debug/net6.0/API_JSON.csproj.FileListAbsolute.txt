@@ -1,0 +1,17 @@
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\bin\Debug\net6.0\API_JSON.exe
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\bin\Debug\net6.0\API_JSON.deps.json
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\bin\Debug\net6.0\API_JSON.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\bin\Debug\net6.0\API_JSON.dll
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\bin\Debug\net6.0\API_JSON.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.csproj.CopyComplete
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.dll
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\refint\API_JSON.dll
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.pdb
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\API_JSON.genruntimeconfig.cache
+C:\Users\josep\OneDrive\Desktop\Repos\API_JSON\API_JSON\obj\Debug\net6.0\ref\API_JSON.dll
